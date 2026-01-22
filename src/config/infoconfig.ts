@@ -30,8 +30,7 @@ export const workspacesInfoContent: InfobarContent = {
     {
       title: 'Server-Side Permission Checks',
       description:
-        description:
-      "This application follows recommended patterns for multi-tenant authentication. Server-side permission checks ensure that users can only access resources for their active organization.",
+        "This application follows recommended patterns for multi-tenant authentication. Server-side permission checks ensure that users can only access resources for their active organization.",
       links: [
         {
           title: 'Clerk Organizations Documentation',
@@ -48,8 +47,7 @@ export const teamInfoContent: InfobarContent = {
     {
       title: 'Overview',
       description:
-        description:
-      "The Team Management page allows you to manage your workspace team, including members, roles, security settings, and more. This page provides comprehensive organization management.",
+        "The Team Management page allows you to manage your workspace team, including members, roles, security settings, and more. This page provides comprehensive organization management.",
       links: []
     },
     {
@@ -91,8 +89,7 @@ export const billingInfoContent: InfobarContent = {
     {
       title: 'Overview',
       description:
-        description:
-      "The Billing page allows you to manage your organization's subscription and usage limits. Plans and subscriptions are managed through the system's billing provider.",
+        "The Billing page allows you to manage your organization's subscription and usage limits. Plans and subscriptions are managed through the system's billing provider.",
       links: []
     },
     {
